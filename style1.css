@@ -29,6 +29,7 @@ p {
 .content {
 	padding-top: 25pc;
 	height: 300px;
+	z-index: 1;
 }
 
 .roseimg {
