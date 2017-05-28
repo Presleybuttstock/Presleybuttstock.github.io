@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+}
+
+h1 {
+	text-align: right;
+	font-family: helvetica;
+	margin: auto;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	color: white;
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+
+p {
+	font-family: helvetica;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	color: black;
+	background-color: pink;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.content {
+	padding-top: 25pc;
+	height: 300px;
+}
