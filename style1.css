@@ -30,3 +30,8 @@ p {
 	padding-top: 25pc;
 	height: 300px;
 }
+
+.roseimg {
+	max-width: 200px;
+	max-height: 600px;
+}
