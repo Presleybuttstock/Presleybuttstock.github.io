@@ -40,4 +40,6 @@ p {
 img {
 	margin: auto;
 	position: fixed;
+	max-width: 200px
+	max-height: 500px
 }
